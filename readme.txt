@@ -1,5 +1,5 @@
 xxx
-AddLine1 ·Î‡-·Î‡-·Î‡ xxx
+AddLine1 –†—É—Å—Å–∏–π —Ç–µ–∫—Å—Ç!!!!
 AddLine2 xxxyyy
 AddLine3 
 AddLine4 

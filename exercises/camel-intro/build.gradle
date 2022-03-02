@@ -1,5 +1,5 @@
 plugins {
-  id 'java'
+  id 'application'
   id 'com.adarshr.test-logger' version '2.1.1'
 }
 
@@ -10,9 +10,9 @@ repositories {
   mavenCentral()
 }
 
-/*application {
+application {
   mainClass = 'exercise.App'
-}*/
+}
 
 dependencies {
   implementation 'org.apache.camel:camel-core:3.4.2'

@@ -16,8 +16,9 @@ application {
 
 dependencies {
   implementation 'org.apache.camel:camel-core:3.4.2'
+  implementation 'ch.qos.logback:logback-classic:1.0.13' // need for camel
   implementation 'org.apache.camel:camel-jdbc:3.4.2'
-  implementation 'ch.qos.logback:logback-classic:1.0.13'
+
 
 //  runtimeOnly 'org.postgresql:postgresql:42.2.1'
   testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.0-M1'
